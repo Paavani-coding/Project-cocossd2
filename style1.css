@@ -1,0 +1,35 @@
+h2{
+    color: darkcyan !important;
+    font-size: 55px;
+    text-shadow: 2px 1px white;
+}
+h3{
+    color: darkcyan !important;
+    font-size: 35px;
+    text-shadow: 1px .5px white;
+}
+
+body{
+    font-family: 'Kalam';
+}
+
+img{
+    width: 600px;
+    height: 400px;
+    border: 10px aliceblue solid;
+}
+
+a{
+    color: aliceblue;
+    font-size: 35px;
+}
+
+a:hover{
+    color: deepskyblue;
+    text-shadow: 3px 3px black;
+}
+
+#vase{
+    width: 300px;
+    height: 400px;
+}

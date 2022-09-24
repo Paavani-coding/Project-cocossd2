@@ -1,0 +1,22 @@
+body{
+    font-family: 'Kalam';
+}
+
+a{
+    font-size:30px;
+    width: 400px;
+    border-radius: 30px;
+    color: indigo;
+}
+
+a:hover{
+    color: aliceblue;
+    text-shadow: 3px 2px black;
+    font-size:40px;
+}
+ 
+h2{
+    color: rgb(1, 1, 32) !important;
+    font-size: 55px;
+    text-shadow: 3px 2px black;
+}
